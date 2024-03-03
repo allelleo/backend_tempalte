@@ -1,0 +1,18 @@
+
+spython:S1192«"UDefine a constant instead of duplicating this literal "Successful Response" 10 times.( Øë²úÿÿÿÿ
+ipython:S107A"MMethod "__init__" has 36 parameters, which is greater than the 13 authorized.(öûáÜúÿÿÿÿ
+Mpython:S1135í"4Complete the task associated to this "TODO" comment.(¢š•³
+Mpython:S930Ù"0Remove this unexpected named argument 'summary'.(áÚ¶ùÿÿÿÿ
+Npython:S930ß"1Remove this unexpected named argument 'webhooks'.(â™Åñüÿÿÿÿ
+cpython:S930â"FRemove this unexpected named argument 'separate_input_output_schemas'.(‰µ°ıÿÿÿÿ
+rpython:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(³ÃœÃıÿÿÿÿ
+opython:S107¡"RMethod "add_api_route" has 24 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+kpython:S107Ü"NMethod "api_route" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+epython:S107µ"HMethod "get" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+epython:S107ª"HMethod "put" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+fpython:S107¤"IMethod "post" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+hpython:S107"KMethod "delete" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+ipython:S107“"LMethod "options" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+fpython:S107ˆ"IMethod "head" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+gpython:S107ı"JMethod "patch" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+gpython:S107÷"JMethod "trace" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ

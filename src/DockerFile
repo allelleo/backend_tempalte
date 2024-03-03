@@ -1,0 +1,15 @@
+FROM python:3.12-slim-buster
+
+RUN mkdir /src
+WORKDIR /src
+
+COPY ./requirements.txt /src/requirements.txt
+
+RUN apt-get update && apt-get install -y git gcc\
+    && pip install -r requirements.txt
+
+COPY . ./src
+
+EXPOSE 8000
+
+CMD ["python3", "cli.py"]
